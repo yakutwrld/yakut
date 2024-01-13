@@ -4,13 +4,13 @@
 Hello im yakut, im an 18 y.o frontend developer living in turkey.
 
 Skills: 
-· Python
-· Java
-· JS
-· HTML and CSS
+* ⌨ Python
+* ☕ Java
+* 💾 JS
+* 💻 HTML and CSS
 
 - 🔭 I’m currently working on PvPCentral & Caunt Development 
-- 🌱 I’m currently learning: Next 
+- 🌱 I’m currently learning: Next and TypeScript 
 - 📫 How to reach me: yakut@caunt.org 
 - 😄 Pronouns: he/him 
 
