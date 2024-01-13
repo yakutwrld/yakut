@@ -10,7 +10,7 @@ Skills:
 · HTML and CSS
 
 - 🔭 I’m currently working on PvPCentral & Caunt Development 
-- 🌱 I’m currently learning Next 
+- 🌱 I’m currently learning: Next 
 - 📫 How to reach me: yakut@caunt.org 
 - 😄 Pronouns: he/him 
 
