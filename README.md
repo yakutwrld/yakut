@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is yakut
-![](https://share.creavite.co/wfxdOSlxaA3rvLU0.gif)
+![](https://share.creavite.co/wfxdOSlxaA3rvLU0.png)
 
 Hello im yakut, im an 18 y.o frontend developer living in turkey.
 
