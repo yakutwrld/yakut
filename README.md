@@ -1,12 +1,12 @@
 ### WASSUP 👋
 
-Hello im yakut, im an 18 y.o frontend developer living in turkey.
+Hello im yakut, im a software developer interested in Java, Python And Web...
 
-## About Me
-- 🔭 I’m currently working on PvPCentral & Caunt Development 
-- 🌱 I’m currently learning: Next and TypeScript 
-- 📫 How to reach me: yakut@caunt.org 
-- 😄 Pronouns: he/him 
+CEO of [PvPCentral Network](https://github.com/PvPCentral-Network). I spend most of my time outside doing activities with people i care about.
+
+Don't hesitate to get in touch for business inquiries.
+- :left_speech_bubble: Discord: yakut
+- :email: Telegram: t.me/islandperson
 
 ## Skills and Experience: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python)](https://skillicons.dev)
