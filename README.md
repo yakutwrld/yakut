@@ -1,5 +1,4 @@
-### Hi there 👋, my name is yakut
-![](https://github.com/yakutwrld/yakut/blob/main/wfxdOSlxaA3rvLU0.gif)
+### WASSUP 👋
 
 Hello im yakut, im an 18 y.o frontend developer living in turkey.
 
