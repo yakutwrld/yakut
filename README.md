@@ -1,4 +1,4 @@
-### WASSUP 👋
+### Wassup! 👋
 
 Hello im yakut, im a software developer interested in Java, Python And Web...
 
