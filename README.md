@@ -10,10 +10,7 @@ Hello im yakut, im an 18 y.o frontend developer living in turkey.
 - 😄 Pronouns: he/him 
 
 ## Skills and Experience: 
-* ⌨ Python
-* ☕ Java
-* 💾 JS
-* 💻 HTML and CSS
+https://skillicons.dev/icons?i=js,html,css,java,python
 
 
 ## Socials:
