@@ -9,7 +9,7 @@ Dont hesitate to get in touch for business inquiries.
 - :email: Telegram: t.me/islandperson
 
 ## Skills and Experience: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python)](https://namemc.com/refected)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,typescript,kotlin)](https://namemc.com/refected)
 
 
 ## Socials:
