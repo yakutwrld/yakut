@@ -6,7 +6,7 @@ Founder of [PvPCentral](https://github.com/PvPCentral-Network). I spend most of 
 
 Dont hesitate to get in touch for business inquiries.
 - :left_speech_bubble: Discord: [yakut](https://discord.com/users/243812922613039104)
-- :email: Telegram: [t.me/islandperson](https:t.me/islandperson)
+- :email: Telegram: [t.me/islandperson](https://t.me/islandperson)
 
 ## Skills and Experience: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,typescript,kotlin)](https://namemc.com/refected)
