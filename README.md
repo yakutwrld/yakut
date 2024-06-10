@@ -2,7 +2,7 @@
 
 Hello im yakut, im a software developer interested in Java, Python And Web...
 
-Founder of [PvPCentral](https://github.com/PvPCentral-Network)). I spend most of my time outside doing activities with people i care about.
+Founder of [PvPCentral](https://github.com/PvPCentral-Network). I spend most of my time outside doing activities with people i care about.
 
 Dont hesitate to get in touch for business inquiries.
 - :left_speech_bubble: Discord: yakut
