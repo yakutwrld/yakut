@@ -1,8 +1,8 @@
 ### Wassup! 👋
 
-Hello im yakut, im a software developer interested in Java, Python And Web...
+Hello im yakut, im a Web and Software developer interested in Java, Python and more...
 
-Founder of [PvPCentral](https://github.com/PvPCentral-Network). I spend most of my time outside doing activities with people i care about.
+Founder of [None](https://github.com/yqkut). I spend most of my time outside doing activities with people i care about.
 
 Dont hesitate to get in touch for business inquiries.
 - :left_speech_bubble: Discord: [yakut](https://discord.com/users/243812922613039104)
