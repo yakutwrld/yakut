@@ -6,7 +6,7 @@ Founder of [None](https://github.com/yqkut). I spend most of my time outside doi
 
 Dont hesitate to get in touch for business inquiries.
 - :left_speech_bubble: Discord: [yakut](https://discord.com/users/243812922613039104)
-- :email: Telegram: [islandperson](https://t.me/yakutXD)
+- :email: Telegram: [yakutXD](https://t.me/yakutXD)
 
 ## Skills and Experience: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,typescript,kotlin)](https://namemc.com/refected)
