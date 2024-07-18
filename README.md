@@ -11,8 +11,3 @@
 <p align="center">
   <a href="https://discord.com/users/243812922613039104" target="_blank"><img src="https://lanyard.cnrad.dev/api/243812922613039104?hideActivity=false" alt="Discord Presence" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-Skills and Experience: 
-https://skillicons.dev/icons?i=js,html,css,java,python,typescript,kotlin,nodejs)](https://namemc.com/refected)
-</p>
