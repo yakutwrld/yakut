@@ -4,7 +4,7 @@
     Wassup, im yakut 👋<br>
     Im a Web and Software Developer.<br>
     Developer of <a href="https://discord.gg/reigon" target="_blank">Reigon</a>. I can code Discord bots, plugins in Java, and websites. Besides software, another hobby of mine is taking pics of things i see and things that fascinate me. I love taking pics of the places i visit, they are all memories for me hahaha. I also spend time outside with ppl who are dear to me. Even tho I love software, spending time with my loved ones is another joy for me.<br>
-    <br><img src="https://count.getloli.com/get/@:vante-xyz?theme=asoul">
+    <br><img src="[https://count.getloli.com/get/@:vante-xyz?theme=asoul](https://moe-counter.glitch.me/get/@yakut)">
     <br><br>My Disc 👇</a>
   </samp>
 </p>
