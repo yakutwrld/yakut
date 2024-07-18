@@ -7,10 +7,6 @@ Developer of [Reigon](https://discord.gg/reigon). I can code Discord bots, plugi
 Dont hesitate to get in touch for business inquiries.
 - :email: Telegram: [yakutXD](https://t.me/yakutXD)
 
-<p align="center">
-  <a href="https://discord.com/users/243812922613039104" target="_blank"><img src="https://lanyard.cnrad.dev/api/243812922613039104?hideActivity=false" alt="Discord Presence" style="max-width: 100%;"></a>
-</p>
-
 ## Skills and Experience: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,typescript,kotlin,nodejs)](https://namemc.com/refected)
 
@@ -18,3 +14,6 @@ Dont hesitate to get in touch for business inquiries.
 ## Socials:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yqkut)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/y7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](q5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hellthepeople)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@yqkut)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://guns.lol/pvp)   
 
+<p align="center">
+  <a href="https://discord.com/users/243812922613039104" target="_blank"><img src="https://lanyard.cnrad.dev/api/243812922613039104?hideActivity=false" alt="Discord Presence" style="max-width: 100%;"></a>
+</p>
