@@ -13,6 +13,6 @@
 </p>
 
 <p align="center">
-## Skills and Experience: 
+Skills and Experience: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,typescript,kotlin,nodejs)](https://namemc.com/refected)
 </p>
