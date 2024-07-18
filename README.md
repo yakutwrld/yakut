@@ -9,7 +9,7 @@ Dont hesitate to get in touch for business inquiries.
 - :email: Telegram: [yakutXD](https://t.me/yakutXD)
 
 ## Skills and Experience: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,typescript,kotlin,node.js)](https://namemc.com/refected)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,typescript,kotlin,nodejs)](https://namemc.com/refected)
 
 
 ## Socials:
