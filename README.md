@@ -2,7 +2,7 @@
 
 Hello im yakut, im a Web and Software developer interested in Java, Python and more...
 
-Founder of [None](https://github.com/yqkut). I spend most of my time outside doing activities with people i care about.
+Developer of [Reigon](https://discord.gg/reigon). I can code Discord bots, plugins in Java, and websites. Besides software, another hobby of mine is taking pics of things i see and things that fascinate me. I love taking pics of the places i visit, they are all memories for me hahaha. I also spend time outside with ppl who are dear to me. Even tho I love software, spending time with my loved ones is another joy for me.
 
 Dont hesitate to get in touch for business inquiries.
 - :left_speech_bubble: Discord: [yakut](https://discord.com/users/243812922613039104)
