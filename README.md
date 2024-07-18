@@ -1,6 +1,6 @@
 ### Wassup! 👋
 
-My neme is yakut, im a Web and Software developer.
+My name is yakut, im a Web and Software developer.
 
 Developer of [Reigon](https://discord.gg/reigon). I can code Discord bots, plugins in Java, and websites. Besides software, another hobby of mine is taking pics of things i see and things that fascinate me. I love taking pics of the places i visit, they are all memories for me hahaha. I also spend time outside with ppl who are dear to me. Even tho I love software, spending time with my loved ones is another joy for me.
 
